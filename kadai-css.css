@@ -5,6 +5,7 @@ header {
   width: 1000px;
 }
 #wrapper {
+  width: 1000px;
   display: flex; 
 }
 
